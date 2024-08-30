@@ -19,6 +19,7 @@ export DOCKER_BUILDKIT=1; docker buildx build -t IMAGE_NAME:IMAGE_VERSION --no-c
 - gh (github cli)
 - pip
 - p7zip
+- aws cli
 
 
 ## Yarn runner
@@ -32,3 +33,4 @@ export DOCKER_BUILDKIT=1; docker buildx build -t IMAGE_NAME:IMAGE_VERSION --no-c
 - yarn
 - pip
 - p7zip
+- aws cli
